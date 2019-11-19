@@ -1,0 +1,10 @@
+{
+    "kafka": {
+        "kafkaHost": "dummyhost:1001"
+    },
+    "log":{
+        "level":"debug",
+        "prettyPrint":true
+    }
+
+}
